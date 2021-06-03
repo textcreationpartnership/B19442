@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, concerning the advocats</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19442</idno><idno type="EEBO-CITATION">19736019</idno>
+  <idno type="VID">205634</idno>
+  <idno type="EEBO-PROQUEST">2240856819</idno>
+  
+            <idno type="STC">Wing C3263</idno>
+            <idno type="OCLC">19736019</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19442)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205634)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1697:50)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, concerning the advocats</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Anderson,</publisher>
+                  <pubPlace>[Edinburgh] :</pubPlace>
+                  <date>[1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at our court at Whitehall, the twelfth day of December 1674. years, and of our reign the twenty sixth year."</note>
+                  <note>Place and date of imprint suggested by Wing.</note>
+                  <note>Imperfect: torn with loss of some imprint information.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Proclamations --  Great Britain.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:205634:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>A PROCLAMATION, Concerning the Advocats.</head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">C</seg>HARLES,</hi> by the Grace of GOD, King of Great <hi>Brittain, France</hi> and <hi>Ireland,</hi> Defender of the Faith,</signed>
+               <salute>To Heraulds, Macers, Pursevants or Messengers at Arms, Our Sheriffs in that part, conjunctly and severally, specially constitute, Greeting:</salute>
+            </opener>
+            <p>Having understood that the Lord <hi>Amont,</hi> and thereafter the Earl of <hi>Aboyn</hi> had appealed from the Lords of Our Council and Session to Us, and Our Estates of Parliament; And that this being a strange and unaccustomed practice, The saids Lords did require the Advocats that did appear for the parties in those Causes, to give their Oaths, whether they had given advice for giving in those appeals? Which they refused to do, though by their Oaths, at their admission, they have sworn obedience to the saids Lords; But in stead of answering what was by them proposed, the saids Advo<g ref="char:EOLhyphen"/>cats did offer a paper, not in Relation to the Appeals in question, but stating another kind of Appeal, having only the effect of a Protesta<g ref="char:EOLhyphen"/>tion for remeed of Law without sisting Process: This they did assert upon several reasons, which were presented unto Us from them, and in their name, and were considered by us, together with the account of that affair communicate to Us by a Letter from the saids Lords of Our Session under all their hands: And upon the whole matter, We did clearly perceive, that those Advocats had stated themselves in an unreasonable and unnecessary opposition to the saids Lords, of very pernicious consequence, giving occasion to beget jealousie in Us and Our Estates of Parliament, as if the saids Lords did assume greater power to them<g ref="char:EOLhyphen"/>selves, than We and Our Royal Progenitors, with advice of their Estates had invested them with: In which we were fully cleared by the express Statute of Our Royal Predecessor King <hi>James</hi> the Second, declaring, <hi>That all Causes cognoscible by the Lords of Session should be utterly determined and decided by them without any remeed of Appellation to the King or to the Parliament:</hi> And by the institution of the Colledge of Justice, by King <hi>James</hi> the Fifth, communi<g ref="char:EOLhyphen"/>cating to the Senators thereof the same power; And by a Letter from Our Estates of Parliament to Us of the eight of <hi>October,</hi> One thousand six hundred and sixty three, bearing, <hi>That they could not proceed to the review of a Decree given by the Lords of Session upon the hearing of parties, especially upon the reasons debated and determined by the Lords, as never having been done by any Parliament authorized by Us, or any of Our so numerous Progenitors, since the reversing any such decree, must needs be upon the iniquity of the Judges of the Supream Judicatory of that Kingdom in matters Civil, from whom there is no Appeal by the Laws of the Nation, the constitution of which being in great prudence so ordered, and such qualifications in the Judges required, that if their Sen<g ref="char:EOLhyphen"/>tences be not ultimatly desinitive, it may open a way to unsecure Our Subjects in their rights and properties:</hi> Wherewith We were abundantly satisfied, and do fully approve Our Lords of Session, their rejecting those and all such Appeals; and do acquit all and every one of them from any question that can be moved upon that account. Upon this occasion, We did by Our Letter to them of the nineteenth of <hi>May</hi> last, declare, That we found it indispensably necessar for Our service, and the maintenance of Our Authority, and for the quiet and security of Our Subjects in their Fortunes and Estates, that the Honour and Authority of Our Colledge of Justice be inviolably preserved, and that there be an entire confidence in, and deference to all the Decreets and Sentences thereof: And We did, and do again assure the saids Lords, that we will constantly maintain Our Authority exercised in that Court against all incroachments, in<g ref="char:EOLhyphen"/>dignities and reproaches; And did declare Our dissatisfaction with, and abhorrence of those Appeals; And, did strictly prohibit the charging of any of the De<g ref="char:EOLhyphen"/>creets or Sentences of Session with injustice, whether in the tearms of Appeals, Protestation, Supplication, Information, or any other way, publickly or pri<g ref="char:EOLhyphen"/>vatly, under the pain of being utterly secluded from exercing any office in, or depending upon the Colledge of Justice. And We were graciously pleased, that the saids Lords should proceed no further against those Advocats, who refused to give their Oaths concerning their accession to these Appeals, if they did solemnly disown the same, and all other Appeals and Protestations which might any wise import the charging of the Sentences and Interloquitors of the Lords with injustice; And in case, they did refuse to disown the same, We did peremptorily command the Lords to debar them from any part of their functi<g ref="char:EOLhyphen"/>on, as Advocats in time coming: And though the saids Lords, by a Letter to Us, of the fourth day of <hi>July</hi> last, did explain Our Letter, and take off all pretences that might seem to straiten them and others in their employments; Yet not only they did refuse to disown Appeals, But when thereupon they were debarred, about fourty more Advocats (of whom nothing was required) did desert the house that very day. We did by Our last Letter to the saids Lords of the fourteenth day of <hi>July</hi> last, approve, what they in pursuance of Our Royal pleasure had done in Relation to those Advocats, who had deser<g ref="char:EOLhyphen"/>ted their station; Since which time, understanding their Factious Practises, We have by Our Letter to Our Privy Council ordered, that none of those Advocats be within twelve miles of <hi>Edinburgh,</hi> till they give satisfaction to the Lords of Our Session; yet none of them hitherto hath made applica<g ref="char:EOLhyphen"/>tion. Whereby, and by their whole carriage in this matter, We are convinced, that in a factious way, they do forbear to give or offer satisfaction, each for himself severally, until they all come in joyntly together upon such tearms as they shall think fit, which is a very dangerous preparative, and highly pre<g ref="char:EOLhyphen"/>judicial to our service. We doubt not, but most of them are abused in this combination by the threats and perswasions of others, who, no doubt, have used the same endeavours with those who have adhered to Our service. It is therefore Our Royal pleasure, that Our Lords of Session give to these Ad<g ref="char:EOLhyphen"/>vocats, who have remained in their duties, all encouragement and countenance in their Employment. And We do declare, that We will not allow a greater number of the with-drawers to be re-admitted than the number of those who did continue in their Station: And We do declare, in the word of a Prince, that such of those Advocats who have withdrawn, as shall not betwixt and the twenty eighth day of <hi>January</hi> next, make application to the saids Lords of Session, for their re-entry (to be presented to Us in manner formerly prescribed by Us) shall never be re-admitted to that Function at any time hereaf<g ref="char:EOLhyphen"/>ter. And to the end that this Our Royal pleasure may be made known to all Our Subjects, We have thought fit that Publication should be made there<g ref="char:EOLhyphen"/>of. <hi>OUR WILL</hi> is herefore, and We command and charge you, that incontinent these Our Letters seen, ye passe to the Mercat Cross of <hi>Edinburgh</hi> and other places needful; And there, by open Proclamation, make publication of Our Royal pleasure in the Premisses, with the usual Solemnities, that none may pretend ignorance. The which to do, We commit to you conjunctly and severally Our full Power, by these Our Letters, delivering them by you duely execute and indorsat again to the Bearer. Given at Our Court at <hi>Whitehall,</hi> the twelfth day of <hi>December</hi> 1674. years, and of Our Reign the twenty sixth year.</p>
+            <p>God Save the King.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>URGH</hi> Printed by <hi>Andrew Anderson,</hi> Printer to the Kings most <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
